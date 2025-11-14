@@ -1,0 +1,20 @@
+C:\Users\rolep\OneDrive\Документы\Жеребьёв_М_А\SkladApp\SkladApp\bin\Debug\SkladApp.exe.config
+C:\Users\rolep\OneDrive\Документы\Жеребьёв_М_А\SkladApp\SkladApp\bin\Debug\SkladApp.exe
+C:\Users\rolep\OneDrive\Документы\Жеребьёв_М_А\SkladApp\SkladApp\bin\Debug\SkladApp.pdb
+C:\Users\rolep\OneDrive\Документы\Жеребьёв_М_А\SkladApp\SkladApp\obj\Debug\SkladApp.csproj.AssemblyReference.cache
+C:\Users\rolep\OneDrive\Документы\Жеребьёв_М_А\SkladApp\SkladApp\obj\Debug\SkladApp.Properties.Resources.resources
+C:\Users\rolep\OneDrive\Документы\Жеребьёв_М_А\SkladApp\SkladApp\obj\Debug\SkladApp.Sklad.resources
+C:\Users\rolep\OneDrive\Документы\Жеребьёв_М_А\SkladApp\SkladApp\obj\Debug\SkladApp.csproj.GenerateResource.cache
+C:\Users\rolep\OneDrive\Документы\Жеребьёв_М_А\SkladApp\SkladApp\obj\Debug\SkladApp.csproj.CoreCompileInputs.cache
+C:\Users\rolep\OneDrive\Документы\Жеребьёв_М_А\SkladApp\SkladApp\obj\Debug\SkladApp.exe
+C:\Users\rolep\OneDrive\Документы\Жеребьёв_М_А\SkladApp\SkladApp\obj\Debug\SkladApp.pdb
+E:\Новая папка\SkladApp\SkladApp\bin\Debug\SkladApp.exe.config
+E:\Новая папка\SkladApp\SkladApp\bin\Debug\SkladApp.exe
+E:\Новая папка\SkladApp\SkladApp\bin\Debug\SkladApp.pdb
+E:\Новая папка\SkladApp\SkladApp\obj\Debug\SkladApp.csproj.AssemblyReference.cache
+E:\Новая папка\SkladApp\SkladApp\obj\Debug\SkladApp.Properties.Resources.resources
+E:\Новая папка\SkladApp\SkladApp\obj\Debug\SkladApp.Sklad.resources
+E:\Новая папка\SkladApp\SkladApp\obj\Debug\SkladApp.csproj.GenerateResource.cache
+E:\Новая папка\SkladApp\SkladApp\obj\Debug\SkladApp.csproj.CoreCompileInputs.cache
+E:\Новая папка\SkladApp\SkladApp\obj\Debug\SkladApp.exe
+E:\Новая папка\SkladApp\SkladApp\obj\Debug\SkladApp.pdb
