@@ -1,5 +1,0 @@
-C:\Users\dimon\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.AssemblyReference.cache
-C:\Users\dimon\source\repos\SuperMarket\SuperMarket\obj\Debug\Лабораторная_1.Spisokproductov.resources
-C:\Users\dimon\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Properties.Resources.resources
-C:\Users\dimon\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.GenerateResource.cache
-C:\Users\dimon\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.CoreCompileInputs.cache
