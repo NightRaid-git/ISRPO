@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\GitHub\Collage_projects\Labs_Kudionov\PR4\For_lab4_Ceaserapp\CEASER!!!\CEASER!!!\bin\Debug\CEASER!!!.exe.config
+C:\Users\Admin\Documents\GitHub\Collage_projects\Labs_Kudionov\PR4\For_lab4_Ceaserapp\CEASER!!!\CEASER!!!\bin\Debug\CEASER!!!.exe
+C:\Users\Admin\Documents\GitHub\Collage_projects\Labs_Kudionov\PR4\For_lab4_Ceaserapp\CEASER!!!\CEASER!!!\bin\Debug\CEASER!!!.pdb
+C:\Users\Admin\Documents\GitHub\Collage_projects\Labs_Kudionov\PR4\For_lab4_Ceaserapp\CEASER!!!\CEASER!!!\obj\Debug\CEASER!!!.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Collage_projects\Labs_Kudionov\PR4\For_lab4_Ceaserapp\CEASER!!!\CEASER!!!\obj\Debug\CEASER___.CeaserCipher.resources
+C:\Users\Admin\Documents\GitHub\Collage_projects\Labs_Kudionov\PR4\For_lab4_Ceaserapp\CEASER!!!\CEASER!!!\obj\Debug\CEASER___.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\Collage_projects\Labs_Kudionov\PR4\For_lab4_Ceaserapp\CEASER!!!\CEASER!!!\obj\Debug\CEASER!!!.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\GitHub\Collage_projects\Labs_Kudionov\PR4\For_lab4_Ceaserapp\CEASER!!!\CEASER!!!\obj\Debug\CEASER!!!.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Collage_projects\Labs_Kudionov\PR4\For_lab4_Ceaserapp\CEASER!!!\CEASER!!!\obj\Debug\CEASER!!!.exe
+C:\Users\Admin\Documents\GitHub\Collage_projects\Labs_Kudionov\PR4\For_lab4_Ceaserapp\CEASER!!!\CEASER!!!\obj\Debug\CEASER!!!.pdb
